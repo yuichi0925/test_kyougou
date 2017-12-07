@@ -17,6 +17,7 @@ public class Test_kyougou {
     public static void main(String[] args) {
         System.out.println("こんにちは");
         System.out.println("こんばんわ");
+        System.out.println("おはよう");
     }
     
 }
